@@ -1,1 +1,0 @@
-var nueve9 = () => {return "quizás tenga que instalar alguna extensión y trabajar desde allí"};
